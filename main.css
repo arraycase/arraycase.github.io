@@ -1,0 +1,14 @@
+.base_color{
+    background-color: #F6F6F0;
+}
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.columns.is-vcentered {
+    -webkit-box-align: center;
+       -ms-flex-align: center;
+          align-items: center;
+  }
